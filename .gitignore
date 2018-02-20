@@ -1,3 +1,11 @@
+gym
+etc
+pip-selfcheck.json
+bin
+include
+local
+lib
+share
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
